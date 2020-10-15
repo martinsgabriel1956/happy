@@ -3,18 +3,17 @@ import { getRepository } from 'typeorm';
 import orphanageView from '../views/orphanages_view';
 import * as Yup from 'yup';
 
-
 import Orphanage from '../models/Orphanage';
 
 export default {
     async index(req: Request, res: Response) {
         const orphanagesRepository = getRepository(Orphanage);
 
-        const orphanages = await orphanagesRepository.find({
+        const orphanage = await orphanagesRepository.find({
             relations: ['images'],
         });
 
-        return res.json(orphanageView.renderMany(orphanages));
+        return res.json(orphanageView.renderMany(orphanage));
     },
 
     async show(req: Request, res: Response) {
@@ -55,7 +54,7 @@ export default {
             about,
             instructions,
             opening_hours,
-            open_on_weekends,
+            open_on_weekends: open_on_weekends === 'true',
             images
         }
 
