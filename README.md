@@ -1,6 +1,6 @@
-<p class="center>
+<h1 class="center">
   <img src=".github/Logo.png" alt="happy" title="happy" />
-</p>
+</h1>
 
 
 
