@@ -12,6 +12,6 @@
 </p>
 
 <h1 align="center">
-  <img src=".github/Banner.png" alt="happy" title="happy" />
+  <img src=".github/banner.png" alt="happy" />
 </h1>
 
