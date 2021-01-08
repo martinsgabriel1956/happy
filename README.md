@@ -103,3 +103,41 @@ $ npm start
 $ yarn start
 
 ```
+
+### :iphone: Rodando o Mobile
+
+```bash
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd happy
+
+# Vá para a pasta server
+$ cd mobile
+
+# Instale as dependências
+$ npm install
+
+## ou
+
+$ yarn install
+
+# Execute a aplicação em modo de desenvolvimento
+
+## Para abrir o metro bundler
+$ npm start
+### ou
+$ yarn start
+
+
+## Para abrir direto no emulador android
+
+$ npm android
+### ou 
+$ yarn android
+
+## Para abrir direto no emulador ios 
+$ npm ios
+## ou
+$ yarn ios
+
+```
