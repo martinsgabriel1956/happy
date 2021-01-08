@@ -17,7 +17,7 @@
 
 ## Tecnologias :computer::
 
-<ul list-styles="none">
+<ul>
   <li>
     <a href="https://pt-br.reactjs.org/">React</a>
   </li>
