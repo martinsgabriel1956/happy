@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="License: MIT" src="https://img.shields.io/github/license/martinsgabriel1956/happy" />
+  <img alt="License: MIT" src="https://img.shields.io/github/license/martinsgabriel1956/happy?style=for-the-badge" />
 </p>
 
 
