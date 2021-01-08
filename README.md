@@ -96,12 +96,10 @@ $ npm install
 $ yarn install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev
+$ npm start
 
 ## ou
 
-$ yarn run dev
+$ yarn start
 
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
