@@ -71,9 +71,37 @@ $ yarn install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 
-# ou
+## ou
 
 $ yarn run dev
+
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+```
+
+### :globe_with_meridians: Rodando o Front End (Web)
+
+```bash
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd happy
+
+# Vá para a pasta server
+$ cd web
+
+# Instale as dependências
+$ npm install
+
+## ou
+
+$ yarn install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+## ou
+
+$ yarn run dev
+
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
