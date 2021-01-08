@@ -128,7 +128,6 @@ $ npm start
 ### ou
 $ yarn start
 
-
 ## Para abrir direto no emulador android
 
 $ npm android
@@ -141,3 +140,5 @@ $ npm ios
 $ yarn ios
 
 ```
+
+## OBS: Se quiser iniciar a aplicação por meio de dispositivo fisico, primeiramente baixe o Expo na loja de aplicativos. Após isso, com o metro buldler aberto, escaneie o QR code e sua aplicação estará rodando.
