@@ -39,11 +39,11 @@
   </li>
 </ul>
 
-  <h3 align="center"> 
-	  🚧  Em construção...  🚧
-  </h3>
+<h3 align="center"> 
+  🚧  Em construção...  🚧
+</h3>
   
-  ### Pré-requisitos
+### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -53,10 +53,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/martinsgabriel1956/happy.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd happy
 
 # Vá para a pasta server
 $ cd server
@@ -64,8 +64,16 @@ $ cd server
 # Instale as dependências
 $ npm install
 
+## ou
+
+$ yarn install
+
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev:server
+
+# ou
+
+$ yarn run dev:server
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
