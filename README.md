@@ -6,4 +6,4 @@
   Criado com o objetivo de ajudar a conectar todos os lares de adoção existentes e cadastrar novos.
 </p>
 
-Projeto sendo criado no NLW 3 :rocket:
+https://img.shields.io/apm/l/MIT
