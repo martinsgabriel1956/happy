@@ -17,23 +17,24 @@
 
 ## Tecnologias :computer::
 
-<p>
-  <a href="https://pt-br.reactjs.org/">React</a>
-</p>
+<ul>
+  <li>
+    <a href="https://pt-br.reactjs.org/">React</a>
+  </li>
 
-<p>
-   <a href="https://reactnative.dev/">React Native</a>
-</p>
+  <li>
+     <a href="https://reactnative.dev/">React Native</a>
+  </li>
 
-<p>
-   <a href="https://expo.io/">Expo</a>
-</p>
+  <li>
+     <a href="https://expo.io/">Expo</a>
+  </li>
 
-<p>
-   <a href="https://www.typescriptlang.org/">Typescript</a>
-</p>
+  <li>
+     <a href="https://www.typescriptlang.org/">Typescript</a>
+  </li>
 
-<p>
-   <a href="https://nodejs.org/en/">Node.js</a>
-</p>
-
+  <li>
+     <a href="https://nodejs.org/en/">Node.js</a>
+  </li>
+</ul>
