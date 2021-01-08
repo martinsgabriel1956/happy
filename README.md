@@ -15,7 +15,7 @@
   <img src=".github/banner.png" alt="happy" />
 </h1>
 
-## Tecnologias:
+## Tecnologias :computer::
 
 <p>
   <a href="https://pt-br.reactjs.org/">React</a>
