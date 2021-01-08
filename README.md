@@ -141,7 +141,7 @@ $ yarn ios
 
 ```
 
-#### OBS: Se quiser iniciar a aplicação por meio de dispositivo fisico, primeiramente baixe o Expo na loja de aplicativos. Após isso, com o metro buldler aberto, escaneie o QR code e sua aplicação estará rodando.
+##### OBS: Se quiser iniciar a aplicação por meio de dispositivo fisico, primeiramente baixe o Expo na loja de aplicativos. Após isso, com o metro buldler aberto, escaneie o QR code e sua aplicação estará rodando.
 
 ## :memo: Licença
 
