@@ -34,11 +34,11 @@
      <a href="https://www.typescriptlang.org/">Typescript</a>
   </li>
   
-  <h4 align="center"> 
-	  🚧  React Select 🚀 Em construção...  🚧
-  </h4>
-
   <li>
      <a href="https://nodejs.org/en/">Node.js</a>
   </li>
 </ul>
+
+  <h2 align="center"> 
+	  🚧  React Select 🚀 Em construção...  🚧
+  </h4>
