@@ -15,3 +15,25 @@
   <img src=".github/banner.png" alt="happy" />
 </h1>
 
+## Tecnologias:
+
+<p>
+  <a href="https://pt-br.reactjs.org/">React</a>
+</p>
+
+<p>
+   <a href="https://reactnative.dev/">React Native</a>
+</p>
+
+<p>
+   <a href="https://expo.io/">Expo</a>
+</p>
+
+<p>
+   <a href="https://www.typescriptlang.org/">Typescript</a>
+</p>
+
+<p>
+   <a href="https://nodejs.org/en/">Node.js</a>
+</p>
+
