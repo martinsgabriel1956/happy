@@ -39,6 +39,6 @@
   </li>
 </ul>
 
-  <h2 align="center"> 
-	  🚧  React Select 🚀 Em construção...  🚧
+  <h1 align="center"> 
+	  🚧  Em construção...  🚧
   </h4>
