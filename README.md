@@ -15,7 +15,7 @@
   <img src=".github/example_banner.png" alt="happy" />
 </h1>
 
-## Tecnologias :computer::
+## :computer: Tecnologias :
 
 <ul>
   <li>
